@@ -1,4 +1,4 @@
-# newyear2024
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +43,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Happy New Year to all of you !</h1>
+        <h1>Happy New Year akanksha ❤️ !</h1>
         <p>As the new year dawns, I wanted to take a moment to wish you all the joy, success, and happiness in the world. May this year bring you new opportunities, exciting adventures, and moments of laughter and love.</p>
         <p>Thank you for being an amazing friend. I am grateful for the memories we've shared, and I look forward to creating many more in the coming year.</p>
         <p>Here's to a year filled with love, laughter, and endless possibilities. Happy New Year!</p>
